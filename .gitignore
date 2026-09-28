@@ -17,3 +17,7 @@ data/kantamal/raw/
 
 # environment files
 .env
+# Raw sample dataset
+data/sample/chrono_data.csv
+# Raw sample datasets
+data/sample/*.csv

@@ -21,3 +21,5 @@ data/kantamal/raw/
 data/sample/chrono_data.csv
 # Raw sample datasets
 data/sample/*.csv
+# CAMELS-IND raw dataset
+data/camels_ind/

@@ -23,3 +23,6 @@ data/sample/chrono_data.csv
 data/sample/*.csv
 # CAMELS-IND raw dataset
 data/camels_ind/
+# Large hydrology raster data
+data/kantamal/raw/dem/
+data/kantamal/processed/*.tif
